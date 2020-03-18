@@ -51,7 +51,7 @@
 		<!-- One -->
 		<section id="one" class="wrapper style2 spotlights">
 			<section>
-				<a href="#" class="image"><img src="images/cakes.jpg" alt="" data-position="center center" /></a>
+				<a href="#" class="image"><img src="./images/cakes.jpg" alt="" data-position="center center" /></a>
 				<div class="content">
 					<div class="inner">
 						<h2>Sweet Eats Bakery</h2>
@@ -64,7 +64,7 @@
 				</div>
 			</section>
 			<section>
-				<a href="#" class="image"><img src="images/phone.jpg" alt="" data-position="top center" /></a>
+				<a href="#" class="image"><img src="./images/phone.jpg" alt="" data-position="top center" /></a>
 				<div class="content">
 					<div class="inner">
 						<h2>Development</h2>
@@ -78,7 +78,7 @@
 				</div>
 			</section>
 			<section>
-				<a href="#" class="image"><img src="images/liberty.jpg" alt="Photo by tom coe on Unsplash" data-position="25% 25%" /></a>
+				<a href="#" class="image"><img src="./images/liberty.jpg" alt="Photo by tom coe on Unsplash" data-position="25% 25%" /></a>
 				<div class="content">
 					<div class="inner">
 						<h2>Coding Liberty</h2>
