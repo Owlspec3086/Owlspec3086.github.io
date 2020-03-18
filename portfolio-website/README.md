@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Build A Portfolio Website
 
 With all of the projects you will be working on here at Lambda School, you will need somewhere to house them!  There is no better opportunity to learn and show off your skills than a beautiful portfolio website.  
@@ -54,6 +53,3 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 
 - [ ] Study the JavaScript used in your template and see if you can tweak any of the behavior to see how it works
 - [ ] Download another template and see if you can get the CSS preprocessor working on the project
-=======
-Hello World this is my first site!
->>>>>>> ee14ba81e3948038f9e90ba2c3f3431b8ca87f87
